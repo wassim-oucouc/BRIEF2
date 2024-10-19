@@ -691,6 +691,35 @@ height: 389px;
     right:3502px;
 }
 
+#input .subscribe input{
+    width: 532px;
+height: 67px;
+}
+
+#boutton-subscribe .text-subscribe{
+
+    padding-bottom: 220px;
+    padding-right: 40px;
+}
+
+#input{
+    display: flex;
+    flex-direction: row;
+}
+
+#input .boutton-input button{
+    width: 173px;
+height: 67px;
+border-radius: 10px;
+background-color: #000000;
+color: white;
+}
+
+#input .boutton-input{
+    padding-left: 20px;
+}
+
+
 
 
 
